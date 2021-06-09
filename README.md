@@ -1,2 +1,2 @@
 # workshops
-workshop registration system
+Workshop Creation and Registration system
